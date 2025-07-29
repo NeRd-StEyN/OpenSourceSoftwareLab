@@ -1,6 +1,6 @@
 # OpenSourceLab
 
-This repository contains a collection of labs for learning and experimentation. Each lab is organized in its own folder with the necessary files and instructions.
+This repository contains a collection of labs for Open Source Software Lab. Each lab is organized in its own folder with the necessary files and instructions.
 
 ## Repository Structure
 
