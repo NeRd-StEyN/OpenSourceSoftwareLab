@@ -6,10 +6,15 @@ int main() {
 
     printf("Enter the number of integers: ");
     scanf("%d", &n);
-    
+
+    if (n <= 0) {
+        printf("Number of integers must be positive.\n");
+        return 1;
+    }
+
     int arr[n];
 
-    printf("Enter %d integers:\n", n);
+    printf("Enter %d integers:\n", n)
     for (i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
         sum += arr[i];
