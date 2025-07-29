@@ -4,7 +4,8 @@ This repository contains a collection of labs for learning and experimentation. 
 
 ## Repository Structure
 
-- **Lab1/** — Files and resources for Lab 1
+x is a integer
+- **Labx/** — Files and resources for Lab x
 ## How to Use
 
 1. Navigate to the lab folder you want to work on, for example:
